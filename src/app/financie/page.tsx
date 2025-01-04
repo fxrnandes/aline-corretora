@@ -8,7 +8,7 @@ const banks = [
   {
     name: 'Banco do Brasil',
     logo: '/placeholder.svg?height=80&width=200',
-    simulationUrl: 'https://www.bb.com.br/simulacao-financiamento-imobiliario'
+    simulationUrl: 'https://www42.bb.com.br/portalbb/imobiliario/creditoimobiliario/simular,802,2250,2250.bbx'
   },
   {
     name: 'Bradesco',
